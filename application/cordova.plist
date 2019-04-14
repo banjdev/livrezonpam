@@ -1,0 +1,8 @@
+MediaPlaybackRequiresUserAction: NO
+AllowInlineMediaPlayback: YES
+OpenAllWhitelistURLsInWebView: YES
+ExternalHosts
+      *.youtube.com
+      *.ytimg.com
+      *.google.com
+      *.kwenpam.com 
